@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"detect_slow_plugins": false,
 	"hot_exit": false,
 	"ignored_packages":
 	[
