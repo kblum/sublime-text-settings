@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"INI",
 		"Package Control",
 		"Tomorrow Color Schemes"
 	]
