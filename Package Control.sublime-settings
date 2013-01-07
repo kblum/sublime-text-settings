@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"Emmet",
 		"Git",
 		"INI",
 		"Package Control",
+		"Pretty JSON",
 		"Tag",
 		"Tomorrow Color Schemes"
 	]
