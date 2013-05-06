@@ -7,5 +7,7 @@
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
-	"remember_open_files": false
+	"remember_open_files": false,
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme"
 }
