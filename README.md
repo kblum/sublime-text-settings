@@ -2,6 +2,10 @@
 
 This repository contains my user settings directory for [Sublime Text 2](http://www.sublimetext.com/2).
 
+## Dependencies
+
+The [Meslo LG S](https://github.com/andreberg/Meslo-Font) font is used and needs to be installed on the system.
+
 ## Installation
 
 Install [Package Control](http://wbond.net/sublime_packages/package_control) by bringing up the Sublime Text 2 console (``ctrl+` ``) and pasting in the following command:
