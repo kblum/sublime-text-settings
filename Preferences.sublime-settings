@@ -2,6 +2,7 @@
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "Meslo LG S",
+	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
