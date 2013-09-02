@@ -3,7 +3,7 @@
 	"detect_slow_plugins": false,
 	"font_face": "Meslo LG S",
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Vintage"
