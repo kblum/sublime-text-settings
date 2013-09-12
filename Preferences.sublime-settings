@@ -1,13 +1,16 @@
 {
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"detect_slow_plugins": false,
-	"font_face": "Meslo LG S",
+	"font_face": "Anonymous Pro",
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"open_files_in_new_window": false,
 	"remember_open_files": false,
 	"soda_classic_tabs": true,

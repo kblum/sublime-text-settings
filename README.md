@@ -2,9 +2,14 @@
 
 This repository contains my user settings directory for [Sublime Text 2](http://www.sublimetext.com/2).
 
+
 ## Dependencies
 
-The [Meslo LG S](https://github.com/andreberg/Meslo-Font) font is used and needs to be installed on the system.
+The following fonts should be installed on the system:
+
+* [Meslo LG S](https://github.com/andreberg/Meslo-Font)
+# [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
+
 
 ## Installation
 
