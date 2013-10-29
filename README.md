@@ -3,14 +3,6 @@
 This repository contains my user settings directory for [Sublime Text 2](http://www.sublimetext.com/2).
 
 
-## Dependencies
-
-The following fonts should be installed on the system:
-
-* [Meslo LG S](https://github.com/andreberg/Meslo-Font)
-# [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-
-
 ## Installation
 
 Install [Package Control](http://wbond.net/sublime_packages/package_control) by bringing up the Sublime Text 2 console (``ctrl+` ``) and pasting in the following command:
