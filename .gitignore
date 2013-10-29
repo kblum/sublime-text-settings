@@ -1,3 +1,4 @@
 *.py[cod]
 *.tmTheme.cache
 Package Control.last-run
+Package Control.cache/*
