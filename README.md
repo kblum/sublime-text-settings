@@ -18,3 +18,10 @@ Sublime Text 2 user directory location on OS X:
 Sublime Text 2 user directory location on Windows 7:
 
 	C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages\User
+
+
+## Additional Setup Options
+
+Create a symbolic link to `subl` so that Sublime Text 2 can be launched from the command line on OS X:
+
+    ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
