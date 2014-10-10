@@ -17,6 +17,10 @@ Sublime Text 3 user directory location on Windows 7:
 
 	C:\Users\USERNAME\AppData\Roaming\Sublime Text 3\Packages\User
 
+or
+
+    %AppData%\Sublime Text 3\Packages\User
+
 Missing packages will be downloaded the next time that the application is launched, during which time the styling will be broken.
 
 
