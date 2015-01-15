@@ -1,27 +1,33 @@
-# Sublime Text 2 User Settings
+# Sublime Text 3 User Settings
 
-This repository contains my user settings directory for [Sublime Text 2](http://www.sublimetext.com/2).
+This repository contains my user settings directory for [Sublime Text 3](http://www.sublimetext.com/3).
 
 
 ## Installation
 
-Install [Package Control](http://wbond.net/sublime_packages/package_control) by bringing up the Sublime Text 2 console (``ctrl+` ``) and pasting in the following command:
+Download the [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) font and install the OpenType version.
 
-	import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
+Install [Package Control](https://sublime.wbond.net/) by following the [installation instructions](https://sublime.wbond.net/installation).
 
-The repository must be cloned into the Sublime Text 2 `Packages/User` directory or a symbolic link must be created to this directory.
+This repository must be cloned into the Sublime Text 3 `Packages/User` directory or a symbolic link must be created to this directory.
 
-Sublime Text 2 user directory location on OS X:
+Sublime Text 3 user directory location on OS X:
 
-	~/Library/Application Support/Sublime Text 2/Packages/User
+	~/Library/Application Support/Sublime Text 3/Packages/User
 
-Sublime Text 2 user directory location on Windows 7:
+Sublime Text 3 user directory location on Windows 7:
 
-	C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages\User
+	C:\Users\USERNAME\AppData\Roaming\Sublime Text 3\Packages\User
+
+or
+
+    %AppData%\Sublime Text 3\Packages\User
+
+Missing packages will be downloaded the next time that the application is launched, during which time the styling will be broken.
 
 
 ## Additional Setup Options
 
-Create a symbolic link to `subl` so that Sublime Text 2 can be launched from the command line on OS X:
+Create a symbolic link to `subl` so that Sublime Text 3 can be launched from the command line on OS X:
 
-    ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+    ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
