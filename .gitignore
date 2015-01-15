@@ -3,3 +3,5 @@
 Package Control.last-run
 Package Control.cache/*
 Package Control.system-ca-bundle
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
