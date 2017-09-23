@@ -1,13 +1,13 @@
 # Sublime Text 3 User Settings
 
-This repository contains my user settings directory for [Sublime Text 3](http://www.sublimetext.com/3).
+This repository contains my user settings directory for [Sublime Text 3](https://www.sublimetext.com/3).
 
 
 ## Installation
 
 Download the [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) font and install the OpenType version.
 
-Install [Package Control](https://sublime.wbond.net/) by following the [installation instructions](https://sublime.wbond.net/installation).
+Install [Package Control](https://packagecontrol.io) by following the [installation instructions](https://packagecontrol.io/installation).
 
 This repository must be cloned into the Sublime Text 3 `Packages/User` directory or a symbolic link must be created to this directory.
 
