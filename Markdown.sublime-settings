@@ -6,5 +6,6 @@
 		"md",
 		"mdown"
 	],
-	"line_numbers": true
+	"line_numbers": true,
+    "mde.keymap_disable.fold_section": true,
 }
