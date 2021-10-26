@@ -1,9 +1,13 @@
 # Sublime Text 3 User Settings
 
-This repository contains my user settings directory for [Sublime Text 3](https://www.sublimetext.com/3).
+This repository contains my user settings directory for [Sublime Text](https://www.sublimetext.com).
 
 
 ## Installation
+
+Reference:
+
+- [Package Control - Syncing](https://packagecontrol.io/docs/syncing)
 
 Download the [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) font and install the OpenType version.
 
